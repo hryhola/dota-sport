@@ -1,0 +1,20 @@
+{
+  "name": "dota-sport",
+  "version": "0.2.0",
+  "description": "Physical exercises plan",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "\u0016https://github.com/hryhola/dota-sport.git"
+  },
+  "author": "Vlad Hryhola",
+  "license": "ISC",
+  "dependencies": {},
+  "devDependencies": {
+    "lite-server": "^2.5.4"
+  }
+}
